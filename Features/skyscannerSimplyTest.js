@@ -3,7 +3,13 @@ const { chromium } = require('playwright');
     const browser = await chromium.launch({
         headless: false
     });
-    const context = await browser.newContext();
+    const context= await browser.newContext({
+        viewport: {
+            width: 1920, // 1280 in commit 1ee6578
+            height: 1080, // 720 in commit 1ee6578
+        },
+        ignoreHTTPSErrors:true
+    })
     // Open new page
     const page = await context.newPage();
     // Go to https://www.skyscanner.pl/
