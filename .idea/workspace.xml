@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d735a212-7215-49a0-aea5-b32616c9b956" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.run/testRun.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/Playwright.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d735a212-7215-49a0-aea5-b32616c9b956" name="Default Changelist" comment="Add Test Case to 2 sites">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/Features/SimpleTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/skyscannerSimplyTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/Features/skyscannerSimplyTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/SimpleTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/Features/SimpleTest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/ea.png" beforeDir="false" afterPath="$PROJECT_DIR$/Features/ea.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619007763243</updated>
-      <workItem from="1619007764466" duration="12283000" />
+      <workItem from="1619007764466" duration="15881000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Test Case to 2 sites">
+      <created>1619031022014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619031022014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Test Case to 2 sites">
+      <created>1619031043780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619031043780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Test Case to 2 sites" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Test Case to 2 sites" />
   </component>
 </project>
